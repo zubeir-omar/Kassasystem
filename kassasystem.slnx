@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Kassasystem.Tests/Kassasystem.Tests.csproj" />
+  <Project Path="Kassasystem/Kassasystem.csproj" />
+</Solution>
