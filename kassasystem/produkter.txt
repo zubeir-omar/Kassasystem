@@ -1,0 +1,6 @@
+300;Bananer;29,90;Kg
+301;Mjölk;15,90;Styck
+302;Kaffe;59,90;Styck
+303;Äpplen;34,50;Kg
+304;Bröd;32,00;Styck
+305;Ost;119,00;Kg
